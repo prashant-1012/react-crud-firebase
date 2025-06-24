@@ -92,7 +92,7 @@ function App() {
   return (
     <>
       <ToastContainer position="top-right" autoClose={3000} />
-      <div className='grid grid-cols-2 gap-6 p-5 min-h-screen bg-gray-100'>
+      <div className='grid grid-cols-1 md:grid-cols-2 gap-6 p-5 min-h-screen bg-gray-100'>
         <UserForm
           formData={formData}
           handleChange={handleChange}
