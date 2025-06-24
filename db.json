@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Alice",
+      "age": 41,
+      "city": "Agra"
+    },
+    {
+      "id": "4",
+      "name": "Bob Terr",
+      "age": 30,
+      "city": "Agra"
+    },
+    {
+      "id": "2c9c",
+      "name": "Patch Edit",
+      "age": "61",
+      "city": "Delhi"
+    },
+    {
+      "id": "5h9c",
+      "name": "POST User",
+      "age": "71",
+      "city": "Agra"
+    },
+    {
+      "id": "ae99",
+      "name": "Peter",
+      "age": "10",
+      "city": "Kolkata"
+    },
+    {
+      "id": "c12d",
+      "name": "Meera",
+      "age": "29",
+      "city": "Delhi"
+    },
+    {
+      "id": "d98e",
+      "name": "Carlos",
+      "age": "53",
+      "city": "Pune"
+    },
+    {
+      "id": "e67f",
+      "name": "Fatima",
+      "age": "40",
+      "city": "Delhi"
+    },
+    {
+      "id": "f76g",
+      "name": "Liam",
+      "age": "61",
+      "city": "Pune"
+    },
+    {
+      "id": "g54h",
+      "name": "Sakura",
+      "age": "39",
+      "city": "Kolkata"
+    },
+    {
+      "id": "006e",
+      "name": "Pintu",
+      "age": "30",
+      "city": "Pune"
+    },
+    {
+      "id": "6918",
+      "name": "Pradeep",
+      "age": "34",
+      "city": "Pune"
+    },
+    {
+      "id": "5h0c",
+      "name": "DB User",
+      "age": "21",
+      "city": "Agra"
+    },
+    {
+      "id": "ae49",
+      "name": "Mouse",
+      "age": "90",
+      "city": "Kolkata"
+    },
+    {
+      "id": "c12h",
+      "name": "Mango",
+      "age": "69",
+      "city": "Delhi"
+    },
+    {
+      "id": "b43x",
+      "name": "Aman",
+      "age": "22",
+      "city": "Mumbai"
+    },
+    {
+      "id": "d91p",
+      "name": "Sneha",
+      "age": "31",
+      "city": "Agra"
+    },
+    {
+      "id": "f07q",
+      "name": "Ravi",
+      "age": "45",
+      "city": "Kolkata"
+    },
+    {
+      "id": "g28t",
+      "name": "Lakshmi",
+      "age": "27",
+      "city": "Pune"
+    },
+    {
+      "id": "k59u",
+      "name": "Arjun",
+      "age": "34",
+      "city": "Agra"
+    },
+    {
+      "id": "m66v",
+      "name": "Nina",
+      "age": "18",
+      "city": "Pune"
+    },
+    {
+      "id": "z89j",
+      "name": "Tarun",
+      "age": "40",
+      "city": "Agra"
+    },
+    {
+      "id": "q71n",
+      "name": "Priya",
+      "age": "26",
+      "city": "Mumbai"
+    },
+    {
+      "id": "h32e",
+      "name": "Deepak",
+      "age": "38",
+      "city": "Delhi"
+    },
+    {
+      "id": "l10k",
+      "name": "Kiran",
+      "age": "24",
+      "city": "Pune"
+    },
+    {
+      "id": "36ae",
+      "name": "Liam",
+      "age": "24",
+      "city": "Agra"
+    },
+    {
+      "id": "0069",
+      "name": "Sam JR",
+      "age": "21",
+      "city": "Agra"
+    },
+    {
+      "id": "3477",
+      "name": "Louis",
+      "age": "35",
+      "city": "Delhi"
+    },
+    {
+      "id": "8807",
+      "name": "alice",
+      "age": "33",
+      "city": "Agra"
+    },
+    {
+      "id": "a428",
+      "name": "Liam Tavis",
+      "age": "37",
+      "city": "Delhi"
+    },
+    {
+      "id": "dbcf",
+      "name": "mango edit",
+      "age": "32",
+      "city": "Agra"
+    },
+    {
+      "id": "a826",
+      "name": "Carlos",
+      "age": "45",
+      "city": "Pune"
+    },
+    {
+      "id": "bb47",
+      "name": "Bob Terr",
+      "age": "30",
+      "city": "Agra"
+    },
+    {
+      "id": "252f",
+      "name": "Ravi Gupta",
+      "age": "22",
+      "city": "Pune"
+    },
+    {
+      "id": "4e61",
+      "name": "Carlos",
+      "age": "23",
+      "city": "Kolkata"
+    }
+  ]
+}
